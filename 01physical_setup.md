@@ -7,6 +7,9 @@
   - Installation of OS on a SSD allows a faster system response than a HDD.
  
 ![Picture01-02.jpg](https://github.com/xieyichun50/bioinformatics_intro/blob/main/figure/Picture01-02.jpg)
+
+  Read more [NFS](https://ubuntu.com/server/docs/service-nfs), [mount](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)
+  
 - Your openstack VM system
 
 ![Picture01-03.jpg](https://github.com/xieyichun50/bioinformatics_intro/blob/main/figure/Picture01-03.jpg)
