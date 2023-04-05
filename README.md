@@ -2,6 +2,7 @@
 
 ### userful links
 - [conda](https://docs.conda.io/en/latest/)
+- [Ensembl Glossary](https://asia.ensembl.org/info/website/glossary.html)
 - analysis workflow [nf-core](https://nf-co.re/)
 - [R language](https://cran.r-project.org/) and [Rstudio](https://posit.co/downloads/)
 - Data visualization example on [D3gallery](https://observablehq.com/@d3/gallery)
